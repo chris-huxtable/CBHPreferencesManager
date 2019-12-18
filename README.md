@@ -5,7 +5,7 @@
 [![licence](https://img.shields.io/badge/licence-ISC-lightgrey.svg?cacheSeconds=2592000)](https://github.com/chris-huxtable/CBHPreferencesManager/blob/master/LICENSE)
 [![coverage](https://img.shields.io/badge/coverage-95%25-brightgreen.svg?cacheSeconds=2592000)](https://github.com/chris-huxtable/CBHPreferencesManager)
 
-An easy-to-use preferences manager. Adds a notification system and allows for multiple managers.
+An easy-to-use preferences manager. Additionally includes a notification system.
 
 
 ## Examples:
