@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.requires_arc           = true
 
   spec.public_header_files    = 'CBHPreferencesManager/**/*.h'
-  spec.private_header_files   = 'CBHPreferencesManager/**/_*.h'
+  #spec.private_header_files   = 'CBHPreferencesManager/**/_*.h'
   spec.source_files           = 'CBHPreferencesManager/**/*.{h,m}'
 
 end
